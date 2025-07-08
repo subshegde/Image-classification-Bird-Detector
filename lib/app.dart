@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_tflite_examples/presentation/pages/auth/login.dart';
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class BirdDetection extends StatelessWidget {
+  const BirdDetection({super.key});
 
   @override
   Widget build(BuildContext context) {

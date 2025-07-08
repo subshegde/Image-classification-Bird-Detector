@@ -7,14 +7,12 @@ This Flutter app allows users to instantly identify bird species from images usi
 This application uses a custom-trained TensorFlow Lite model developed with `Teachable Machine`, trained on a small dataset of approximately 100 images per class.
 
 ## Screenshots
-![thumbnail1](https://github.com/user-attachments/assets/acd03b4e-49f6-49b3-a06f-e77c48059dae)
+![bird1](https://github.com/user-attachments/assets/566c4b17-d384-42d5-bc7a-40be52db145c)
 
 
 ## video
 
-https://github.com/user-attachments/assets/d4aec528-c1bc-4679-9354-efec7bd441e2
-
-
+https://github.com/user-attachments/assets/c71193dc-1777-4615-a560-2ea0ec72348d
 
 ## ✨ Features
 
